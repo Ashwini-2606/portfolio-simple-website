@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page.It was created using HTML and basic CSS to provide a clean and straightforward user experience. 
 
-## 📄 Pages
+##  Pages
 
 - **Home (index.html)**  
   Introduction, a brief bio, and an overview of skills or goals.
@@ -12,11 +12,11 @@ Welcome to my portfolio website! This project is a simple two-page site that inc
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 HTML and Basic CSS
 
-## 👀 How to View
+##  How to View
 You can access my portfolio website by visiting[Link] Feel free to explore the content and get in touch! 
 
 
