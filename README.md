@@ -14,8 +14,7 @@ Welcome to my portfolio website! This project is a simple two-page site that inc
 
 ## 🛠️ Technologies Used
 
--HTML
--CSS
+HTML and Basic CSS
 
 ## 👀 How to View
 You can access my portfolio website by visiting[Link] Feel free to explore the content and get in touch! 
