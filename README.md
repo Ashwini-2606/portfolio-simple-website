@@ -12,7 +12,7 @@ Welcome to my portfolio website! This project is a simple two-page site that inc
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 HTML and Basic CSS
 
